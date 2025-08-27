@@ -16,7 +16,6 @@
 <h2 id="sobre" align="center">Sobre</h2>
 Atividades e Exercícios da Disciplina de Desenvolvimento de APIs e Microsserviços, ministrada pelo professor Giovani Bontempo na Faculdade Impacta, durante o terceiro semestre do curso Análise e Desenvolvimento de Sistemas cursado no 2º Semestre de 2025.
 <br>
-As tarefas foram realizadas em grupo com 3 integrantes.
 
 <h2 id="grupo" align="center">Integrantes do Grupo 12</h2>
 Erick Xavier Ribeiro<br>
